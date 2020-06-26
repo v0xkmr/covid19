@@ -1,8 +1,25 @@
-Record,Sno,State/UnionTerritory,ConfirmedIndianNational,Cured,Deaths
-Record,1,Kerala,1,0,0
-Record,2,Kerala,1,0,0
-Record,3,Kerala,2,0,0
-Record,4,Kerala,3,0,0
-Record,5,Kerala,3,0,0
-Record,6,Kerala,3,0,0
-Record,7,Kerala,3,0,0
+Record,1,Andaman and Nicobar Islands,33,33,0
+Record,2,Andhra Pradesh,3679,2349,62
+Record,3,Arunachal Pradesh,4,1,0
+Record,4,Assam,1272,185,4
+Record,5,Bihar,3815,1710,21
+Record,6,Chandigarh,293,199,4
+Record,7,Chhattisgarh,498,115,1
+Record,8,Dadar Nagar Haveli,2,0,0
+Record,9,Delhi,19844,8478,473
+Record,10,Goa,70,42,0
+Record,11,Gujarat,16779,9919,1038
+Record,12,Haryana,2091,1048,20
+Record,13,Himachal Pradesh,331,120,5
+Record,14,Jammu and Kashmir,2446,927,28
+Record,15,Jharkhand,610,256,5
+Record,16,Karnataka,3221,1218,51
+Record,17,Kerala,1269,590,9
+Record,18,Ladakh,74,43,0
+Record,19,Madhya Pradesh,8089,4842,350
+Record,20,Maharashtra,67655,29329,2286
+Record,21,Manipur,71,11,0
+Record,22,Meghalaya,27,12,1
+Record,23,Mizoram,1,1,0
+Record,24,Nagaland,43,0,0
+Record,25,Odisha,1948,1126,7
